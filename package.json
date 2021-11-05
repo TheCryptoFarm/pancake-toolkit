@@ -1,6 +1,6 @@
 {
-  "name": "@TheCryptoFarm/pancake-uikit",
-  "version": "0.0.1",
+  "name": "pancake-uikit",
+  "version": "0.2.1",
   "description": "Set of UI components",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
