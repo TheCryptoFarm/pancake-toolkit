@@ -1,5 +1,5 @@
 {
-  "name": "@TheCryptoFarm/uikit",
+  "name": "@TheCryptoFarm/pancake-uikit",
   "version": "0.0.1",
   "description": "Set of UI components",
   "main": "dist/index.cjs.js",
